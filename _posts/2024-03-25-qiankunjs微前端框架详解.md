@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      qiankunjs微前端框架详解
-subtitle:   qiankunjs微前端框架并实践，搭建过程中出现什么样的问题
+subtitle:   qiankunjs微前端框架并实践，搭建过程中出现什么样的问
 date:       2024-03-25
 author:     LBX
 header-img: img/bg-little-universe.jpg
